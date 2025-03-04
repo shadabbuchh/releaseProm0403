@@ -75,6 +75,14 @@
     {
       "id": "Snowflake",
       "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
